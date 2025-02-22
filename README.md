@@ -20,7 +20,7 @@ NextSchool is an AI-based platform designed to enhance the educational experienc
 
 ## Dashboard Preview
 
-![Dashboard Preview](public/865_1x_shots_so.png)
+![Dashboard Preview](public/450_1x_shots_so.png)
 
 ## Contact Us
 
