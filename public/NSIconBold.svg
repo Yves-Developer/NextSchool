@@ -1,0 +1,29 @@
+<svg width="800px" height="800px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Container Shape -->
+  <path d="M7,1l2,2h7v11H0V1H7z" fill="#4ade80"/>
+
+  <!-- Three Consecutive Dots Moved Down -->
+  <circle cx="2" cy="2" r="0.5" fill="white"/>
+  <circle cx="4" cy="2" r="0.5" fill="white"/>
+  <circle cx="6" cy="2" r="0.5" fill="white"/>
+
+  <!-- "N" Letter (Now Closer to "5" and Centered) -->
+  <text x="3.2" y="12" font-family="Arial Black" font-size="6.9" fill="white" font-weight="700">N</text>
+
+  <!-- "5" Shape (Now Closer to "N" and Centered) -->
+  <path fill="white" stroke="white" stroke-width="0.8" transform="translate(7.2, 6) scale(0.55)" d="
+    M4.5 3.5V3H4V3.5H4.5Z
+    M4.5 6.5H4V7H4.5V6.5Z
+    M10.5 6.5H11V6H10.5V6.5Z
+    M10.5 9.5L10.6581 9.97434L11 9.86038V9.5H10.5Z
+    M7.5 10.5L7.34189 10.9743L7.5 11.027L7.65811 10.9743L7.5 10.5Z
+    M4.5 9.5H4V9.86038L4.34189 9.97434L4.5 9.5Z
+    M11 3H4.5V4H11V3Z
+    M4 3.5V6.5H5V3.5H4Z
+    M4.5 7H10.5V6H4.5V7Z
+    M10 6.5V9.5H11V6.5H10Z
+    M10.3419 9.02566L7.34189 10.0257L7.65811 10.9743L10.6581 9.97434L10.3419 9.02566Z
+    M7.65811 10.0257L4.65811 9.02566L4.34189 9.97434L7.34189 10.9743L7.65811 10.0257Z
+    M5 9.5V8H4V9.5H5Z
+  "/>
+</svg>

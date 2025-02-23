@@ -1,4 +1,7 @@
-# NextSchool
+<div style="display: flex; align-items: center;width:100%">
+  <img src="public/NSIconBold.svg" alt="NextSchool Icon" style="height: 2em; margin-right: 0.5em;">
+  <h1 style="margin: 0;width:100%">NextSchool</h1>
+</div><br>
 
 NextSchool is an AI-based platform designed to enhance the educational experience for students and teachers. Our goal is to provide a seamless and interactive learning environment with AI capabilities. The AI (ChatGPT-4.0) is fine-tuned to REB STEM books and REB, NESA National examination question papers, which gives it the ability to explain concepts in the REB curriculum tone and level, help students revise content, answer questions, and assist teachers or students in generating REB/NESA STEM-like questions and answers.
 
@@ -21,6 +24,16 @@ NextSchool is an AI-based platform designed to enhance the educational experienc
 ## Dashboard Preview
 
 ![Dashboard Preview](public/450_1x_shots_so.png)
+
+## NextSchool Icons
+
+### Solid:
+
+  <img src="public/NSIconBold.svg" alt="NextSchool Icon" style="height: 4em; margin-right: 0.5em;">
+
+### Outline:
+
+  <img src="public/NSIconOutline.svg" alt="NextSchool Icon" style="height: 4em; margin-right: 0.5em;">
 
 ## Contact Us
 
